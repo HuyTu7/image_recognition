@@ -39,7 +39,7 @@ Please make sure the folders structure are similar with data included in MNIST a
 
 *Notes:* 
 Image preprocessing + Loading the dataset is done in the `img_preprocecssing.ipynb` file 
-+ `MNIST_data_1` and `Caltech_data_1.pickle` are datasets without PCA preprocessing
-+ `MNIST_data_2` and `Caltech_data_2.pickle` are datasets with PCA preprocessing
++ `MNIST_data_1.pickle` and `Caltech_data_1.pickle` are datasets without PCA preprocessing
++ `MNIST_data_2.pickle` and `Caltech_data_2.pickle` are datasets with PCA preprocessing
 
 
