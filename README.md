@@ -1,4 +1,4 @@
-# image_recognition
+# Project 1
 
 ## Structure of the folders:
 
@@ -32,9 +32,9 @@ which can be easily installed through `pip`.
 Please make sure the folders structure are similar with data included in MNIST and Caltech10 folders for the code to run smoothly. 
 
 - Run `python jupyter notebook` command line in the root folder 
-- Run all on file `img_preprocecssing.ipynb` 
-- Run all on file `knn_experiment.ipynb` for implementation and experimentation results of KNN algorithm on both datasets
-- Run all on file `decisiontree_experiment.ipynb` for implementation and experimentation results of decision tree algorithm on both datasets
+- Click on the Kernel button to run all on file `img_preprocecssing.ipynb` 
+- Click on the Kernel button to run all on file `knn_experiment.ipynb` for implementation and experimentation results of KNN algorithm on both datasets
+- Click on the Kernel button to run all on file `decisiontree_experiment.ipynb` for implementation and experimentation results of decision tree algorithm on both datasets
 - Feel free to edit the call on the pickle_operating when loading the binarized version of the preprocessing dataset between with and without PCA transformation applied. 
 
 *Notes:* 
