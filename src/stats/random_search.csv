@@ -1,0 +1,6 @@
+num_of_evaluations, Caltech_mean_performance, MNIST_mean_performance
+5, 23.6, 72.8  
+10, 24.6, 75.7
+15, 24.2, 76
+20, 25.3, 78.8
+
